@@ -1,0 +1,25 @@
+.center-img {
+  display: block;
+  margin: 0 auto;
+  background: white;
+
+
+}
+
+.center-img-certificate {
+  /*display: block;*/
+  margin: 0 auto;
+  background: white;
+
+}
+
+.text-sections{
+  text-align: center;
+  margin: 0 auto;
+}
+
+.style {
+  /*display: block;*/
+background: white;
+  width: 100%;
+}
